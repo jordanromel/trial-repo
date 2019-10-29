@@ -8,7 +8,8 @@ const store = new Vuex.Store({
   state: {
     shop: null,
     currentTab: 'Home',
-    selectedItem: null
+    selectedItem: null,
+    newProperty: null,
   },
   actions
 })
