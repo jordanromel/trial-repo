@@ -1,0 +1,130 @@
+{
+    "brands": [
+        {
+            "name": "Adidas",
+            "logo": "static/logo/adidas.png"
+        },
+        {
+            "name": "Nike",
+            "logo": "static/logo/nike.png"
+        },
+        {
+            "name": "New Balance",
+            "logo": "static/logo/new_balance.png"
+        }
+    ],
+    "items": [
+        {
+            "id": 1,
+            "brand": 1,
+            "name": "Air Force 1",
+            "tag": 0,
+            "color": "White",
+            "price": 5999,
+            "stock": {
+                "6.5": 21,
+                "7": 22,
+                "8": 24,
+                "9": 40,
+                "10": 5
+            },
+            "img": "static/items/nike_af1.jpeg"
+        },
+        {
+            "id": 2,
+            "brand": 1,
+            "name": "Classic Cortez",
+            "tag": 0,
+            "color": "White",
+            "price": 3599,
+            "stock": {
+                "6.5": 21,
+                "7": 22,
+                "8": 24,
+                "9": 40,
+                "10": 5
+            },
+            "img": "static/items/nike_cortez.jpg"
+        },
+        {
+            "id": 3,
+            "brand": 1,
+            "name": "Air Presto",
+            "tag": 0,
+            "color": "Red",
+            "price": 5299,
+            "stock": {
+                "6.5": 21,
+                "7": 22,
+                "8": 24,
+                "9": 40,
+                "10": 5
+            },
+            "img": "static/items/nike_presto.png"
+        },
+        {
+            "id": 4,
+            "brand": 0,
+            "name": "NMD R1",
+            "tag": 0,
+            "color": "Black",
+            "price": 8000,
+            "stock": {
+                "6.5": 21,
+                "7": 22,
+                "8": 24,
+                "9": 40,
+                "10": 5
+            },
+            "img": "static/items/adidas_nmdr1.jpeg"
+        },
+        {
+            "id": 5,
+            "brand": 0,
+            "name": "Stan Smith",
+            "tag": 0,
+            "color": "White",
+            "price": 3999,
+            "stock": {
+                "6.5": 21,
+                "7": 22,
+                "8": 24,
+                "9": 40,
+                "10": 5
+            },
+            "img": "static/items/adidas_ss.jpg"
+        },
+        {
+            "id": 6,
+            "brand": 0,
+            "name": "Superstar",
+            "tag": 0,
+            "color": "White",
+            "price": 5499,
+            "stock": {
+                "6.5": 21,
+                "7": 22,
+                "8": 24,
+                "9": 40,
+                "10": 5
+            },
+            "img": "static/items/adidas_s.jpeg"
+        },
+        {
+            "id": 7,
+            "brand": 2,
+            "name": "X-90",
+            "tag": 0,
+            "color": "Violet",
+            "price": 3670,
+            "stock": {
+                "6.5": 21,
+                "7": 22,
+                "8": 24,
+                "9": 40,
+                "10": 5
+            },
+            "img": "static/items/new_balance_x90.jpeg"
+        }
+    ]
+}
