@@ -24,7 +24,13 @@ export default {
     }
   },
   methods: {
-    ...mapActions(['PARSE_JSON'])
+    ...mapActions(['PARSE_JSON']),
+    hello: function () {
+      console.log('checking');
+    },
+    hi: function () {
+      console.log('answering');
+    }
   },
   computed: {
   }
